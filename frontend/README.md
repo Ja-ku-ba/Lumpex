@@ -1,6 +1,6 @@
-# Lumpex App (frontend)
+# Lumpex (frontend)
 
-Lumpex project
+A Quasar Project
 
 ## Install the dependencies
 ```bash

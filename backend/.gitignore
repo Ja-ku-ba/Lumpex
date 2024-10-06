@@ -137,5 +137,4 @@ GitHub.sublime-settings
 !.vscode/extensions.json 
 .history
 
-
-server/server_settings.py
+server/local_settings.py
